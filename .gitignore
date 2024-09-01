@@ -1,0 +1,26 @@
+# Ignore sensitive configuration files
+config.rb
+*.env
+
+# Ignore database dumps and backups
+database/
+*.sql
+
+# Ignore IDE/editor-specific files
+.vscode/
+.sublime-project
+.sublime-workspace
+
+# Ignore log files and temporary files
+*.log
+tmp/
+logs/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore local settings or generated files
+*.bak
+*.swp
+*.tmp

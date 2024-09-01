@@ -1,0 +1,11 @@
+  #tankerPickupsTable_wrapper {
+  overflow-x: hidden !important;
+}
+
+.custom-checkbox {
+  transform: scale(1.2); /* Increase the scale value as desired */
+}
+
+  #tankerSalesTable_wrapper {
+  overflow-x: hidden !important;
+}
